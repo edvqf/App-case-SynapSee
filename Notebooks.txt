@@ -1,8 +1,12 @@
-notebook 1:
+notebook 1 (primeira linha de desenvolvimento)
 https://colab.research.google.com/drive/1RyV3L1hHtcuacq0KJI7M2vBdQW-rWlDO?usp=sharing
 
-notebook 2:
+notebook 2 (nova linha principal procurando um desempenho melhor)
 https://colab.research.google.com/drive/1PrWdiVqNv7PjC8TFrF5QnD8_jCvwr6vF?usp=sharing
 
-notebook 3:
+notebook 3 (resumo do que foi escolhido no final)
 https://colab.research.google.com/drive/1tzuLPGcyZUlxax4lbIBYuCEc19cdRLJR?usp=sharing
+
+
+
+Os notebooks 1 e 2 precisam ser reorganizados, pois foram alterados algumas partes varias vezes para testes, então estão bem bagunçados.
