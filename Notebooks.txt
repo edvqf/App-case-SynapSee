@@ -1,0 +1,8 @@
+notebook 1:
+https://colab.research.google.com/drive/1RyV3L1hHtcuacq0KJI7M2vBdQW-rWlDO?usp=sharing
+
+notebook 2:
+https://colab.research.google.com/drive/1PrWdiVqNv7PjC8TFrF5QnD8_jCvwr6vF?usp=sharing
+
+notebook 3:
+https://colab.research.google.com/drive/1tzuLPGcyZUlxax4lbIBYuCEc19cdRLJR?usp=sharing
