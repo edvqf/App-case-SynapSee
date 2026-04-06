@@ -76,7 +76,7 @@ else:
             estado_dominante = df_input['Estado'].value_counts().idxmax()
             st.metric("Estado Dominante", estado_dominante)
         with c2:
-            st.metric("Engajamento Médio", f"{df_input['Engajamento_Suave'].mean():.1f}%")
+            st.metric("Engajamento Médio", f"{df_input['Engajamento_Suave'].mean():.1f}")
 
         st.subheader("Nível de Engajamento ao Longo do Tempo")
         # Exibindo os dois no mesmo gráfico para referência
